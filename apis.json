@@ -1,0 +1,142 @@
+{
+    "name": "Context.IO",
+    "description": "Create simple email webhooks and code against a free, RESTful, IMAP API.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/172-context-io.jpg",
+    "tags": [
+        "api lifeycle",
+        "api provider",
+        "emails",
+        "have api",
+        "have swagger",
+        "messages",
+        "relative data",
+        "service api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/context-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Context.IO",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/172-context-io.jpg",
+            "humanURL": "http:\/\/context.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/context-io-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/context-io.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/context-io-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.context.io\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.context.io\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.context.io\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/product\/context-io"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/context-io"
+        },
+        {
+            "type": "Documentation",
+            "url": "http:\/\/context.io\/docs\/2.0"
+        },
+        {
+            "type": "Email",
+            "url": "hello@context.io"
+        },
+        {
+            "type": "Email",
+            "url": "support@context.io"
+        },
+        {
+            "type": "Email",
+            "url": "business@context.io"
+        },
+        {
+            "type": "FAQ",
+            "url": "http:\/\/context.io\/privacy-faq"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/contextio"
+        },
+        {
+            "type": "iOS LIbrary",
+            "url": "https:\/\/github.com\/contextio\/contextio-ios"
+        },
+        {
+            "type": "Node.js Library",
+            "url": "https:\/\/github.com\/contextio\/ContextIO-node"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/172-2019-09-04-15-05-57.json"
+        },
+        {
+            "type": "PHP Library",
+            "url": "https:\/\/github.com\/contextio\/PHP-ContextIO"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/context.io\/pricing"
+        },
+        {
+            "type": "Privacy",
+            "url": "http:\/\/www.returnpath.com\/privacy-policy-data"
+        },
+        {
+            "type": "Python Library",
+            "url": "https:\/\/github.com\/contextio\/Python-ContextIO"
+        },
+        {
+            "type": "Ruby Library",
+            "url": "https:\/\/github.com\/contextio\/contextio-ruby"
+        },
+        {
+            "type": "Registration",
+            "url": "http:\/\/context.io\/#signup"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "http:\/\/context.io\/terms-of-service"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/contextio"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/context.io\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/context.io"
+        }
+    ]
+}
